@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#btn{
+    padding: 5px;
+    background-color: chocolate;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
